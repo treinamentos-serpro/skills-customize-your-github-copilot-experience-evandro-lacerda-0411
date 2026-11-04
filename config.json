@@ -72,6 +72,20 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "persistent-todo-list",
+      "title": "Persistent To-Do List",
+      "description": "Save and load data with text files and JSON using only Python's standard library.",
+      "path": "assignments/persistent-todo-list",
+      "dueDate": "2026-11-11",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
